@@ -76,22 +76,22 @@ class Maxima_Cielo_Helper_Data extends Mage_Core_Helper_Abstract
 				$label = "Autenticada";
 				break;
 			case 3:
-				$label = "Não autenticada";
+				$label = "NÃ£o autenticada";
 				break;
 			case 4:
 				$label = "Autorizada";
 				break;
 			case 5:
-				$label = "Não autorizada";
+				$label = "NÃ£o autorizada";
 				break;
 			case 6:
-				$label = "Concluída";
+				$label = "ConcluÃ­da";
 				break;
 			case 9:
 				$label = "Cancelada";
 				break;
 			case 10:
-				$label = "Em autenticação";
+				$label = "Em autenticaÃ§Ã£o";
 				break;
 			case 10:
 				$label = "Em cancelamento";
